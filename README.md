@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Benio501st
 - 👀 I’m interested in Star Wars, Gym and Car Photography
 - 🌱 I’m currently learning Solidity and web3 development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach finde me on LinkedIn: Beniamin Hutyra
 - 😄 Pronouns: he/him
