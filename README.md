@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Benio501st
-- 👀 I’m interested in Star Wars, Gym and Car Photography
-- 🌱 I’m currently learning Solidity and web3 development
+- 👀 I’m interested in Star Wars, Gym and Cars and other stuff
+- 🌱 I’m currently learning FlutterFlow Platform, I did Solidity and web3 development in 2024
 - 📫 How to reach finde me on LinkedIn: Beniamin Hutyra
 - 😄 Pronouns: he/him
